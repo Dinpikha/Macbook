@@ -41,8 +41,8 @@ npm run build
 npm run preview
 ```
 
-Run linting:
+Run :
 
 ```bash
-npm run lint
+npm run dev
 ```
